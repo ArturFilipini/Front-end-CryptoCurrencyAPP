@@ -1,0 +1,29 @@
+.button{
+  color: blue;
+  padding: 8px 16px;
+  border: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.custom-file-upload{
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-right: 10px;
+  display: inline-block;
+}
+
+table {
+  width: 100%;
+}
+.card {
+  padding: 10%;
+}
+.loading-spinner {
+  padding: 25px;
+  background: rgba(0,0,0, 0.15);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
